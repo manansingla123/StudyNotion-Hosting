@@ -1,31 +1,35 @@
 ## StudyNotion edtech project
 
-This is a starter pack for creating React projects with Tailwind CSS configured. It uses React version **18.2** and Tailwind CSS version **3.2**.
+StudyNotion is a fully functional, versatile, and intuitive ed-tech platform designed to revolutionize the way educational content is created, consumed, and rated. Built with the MERN Stack, the platform provides an immersive and interactive learning experience for students and a global stage for instructors to showcase their expertise.
 
-## Usage
+#Key Objectives
+Students: To provide a seamless, accessible, and highly engaging online learning environment.
+Instructors: To offer a robust platform for showcasing expertise, managing courses, and connecting with learners worldwide.
 
-This starter pack includes a basic setup for using **Tailwind CSS with React**. To start building your own components and styles, follow these steps:
+#Key Features
+Authentication & Authorization: Secure sign-up/login with JWT for both Students and Instructors, supporting OTP verification and Forgot Password functionality.
+Course Consumption: Access to structured course content pages with videos, media, and supporting material.
+E-commerce Flow: Full checkout process including Payment Integration via Razorpay to purchase and enroll in courses.
+Full Course Management: CRUD (Create, Read, Update, Delete) operations for courses, management of content, media, and pricing.
+Dashboard & Insights: Overview of courses, ratings, feedback, and detailed metrics (views, clicks) for effective course performance tracking.
+Cloud Media Management: Uses Cloudinary for secure storage and management of all course media (images, videos, PDFs).
 
-1. Clone the repository to your local machine.
-    ```sh
-    git clone https://github.com/thepranaygupta/react-tailwind-css-starter-pack.git
-    ```
+## Tech Stack
+StudyNotion is a application built on the MERN stack.
 
-1. Install the required packages.
-    ```sh
-    cd react-tailwind-css-starter-pack
-    npm install
-    ```
+#Component	            #Technology	
+Front-End -->           ReactJS	
+Front-End Styling -->   Tailwind CSS	
+State Management -->	Redux	
+Back-End -->	        Node.js & Express.js	
+Database -->	        MongoDB (via Mongoose)	
+Security -->	        JWT & Bcrypt	
 
-1. Start the development server.
-    ```sh
-    npm start
-    ```
-1. Open the project in your browser at [`http://localhost:3000`](http://localhost:3000) to view your project.
-1. Create your React components and add your styles using Tailwind classes. You can also create new CSS files and import them into your components.
+## Deployment Status
+The application is deployed using a combination of specialized free cloud hosting services:
+Front-End: Hosted on Vercel.
+Back-End: Hosted on Render.
+Database: Hosted on MongoDB Atlas.
+Media Files: Stored on Cloudinary.
 
-The project is set up to use `postcss-cli` to process your CSS files. You can add your own `tailwind.config.js` file to customize your Tailwind setup.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
