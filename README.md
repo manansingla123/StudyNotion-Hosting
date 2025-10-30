@@ -18,12 +18,12 @@ Cloud Media Management: Uses Cloudinary for secure storage and management of all
 StudyNotion is a application built on the MERN stack.
 
 # Component	            # Technology	
-Front-End -->           ReactJS	
-Front-End Styling -->   Tailwind CSS	
-State Management -->	Redux	
-Back-End -->	        Node.js & Express.js	
-Database -->	        MongoDB (via Mongoose)	
-Security -->	        JWT & Bcrypt	
+Front-End -->           ReactJS	  
+Front-End Styling -->   Tailwind CSS  	
+State Management -->	Redux	  
+Back-End -->	        Node.js & Express.js	  
+Database -->	        MongoDB (via Mongoose)	  
+Security -->	        JWT & Bcrypt	  
 
 ## Deployment Status
 The application is deployed using a combination of specialized free cloud hosting services:
