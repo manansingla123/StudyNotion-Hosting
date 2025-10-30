@@ -3,7 +3,8 @@
 StudyNotion is a fully functional, versatile, and intuitive ed-tech platform designed to revolutionize the way educational content is created, consumed, and rated. Built with the MERN Stack, the platform provides an immersive and interactive learning experience for students and a global stage for instructors to showcase their expertise.
 
 # Key Objectives
-Students: To provide a seamless, accessible, and highly engaging online learning environment.
+Students: To provide a seamless, accessible, and highly engaging online learning environment.  
+
 Instructors: To offer a robust platform for showcasing expertise, managing courses, and connecting with learners worldwide.
 
 # Key Features
