@@ -17,7 +17,7 @@ Cloud Media Management: Uses Cloudinary for secure storage and management of all
 ## Tech Stack
 StudyNotion is a application built on the MERN stack.
 
-# Component	            # Technology	
+# Component	and Technology	
 Front-End -->           ReactJS	  
 Front-End Styling -->   Tailwind CSS  	
 State Management -->	Redux	  
@@ -26,10 +26,9 @@ Database -->	        MongoDB (via Mongoose)
 Security -->	        JWT & Bcrypt	  
 
 ## Deployment Status
-The application is deployed using a combination of specialized free cloud hosting services:
-Front-End: Hosted on Vercel.
-Back-End: Hosted on Render.
-Database: Hosted on MongoDB Atlas.
-Media Files: Stored on Cloudinary.
-
+The application is deployed using a combination of specialized free cloud hosting services:  
+Front-End: Hosted on Vercel.  
+Back-End: Hosted on Render.  
+Database: Hosted on MongoDB Atlas.  
+Media Files: Stored on Cloudinary.    
 
