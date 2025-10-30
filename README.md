@@ -4,7 +4,6 @@ StudyNotion is a fully functional, versatile, and intuitive ed-tech platform des
 
 # Key Objectives
 Students: To provide a seamless, accessible, and highly engaging online learning environment.  
-
 Instructors: To offer a robust platform for showcasing expertise, managing courses, and connecting with learners worldwide.
 
 # Key Features
