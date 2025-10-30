@@ -2,11 +2,11 @@
 
 StudyNotion is a fully functional, versatile, and intuitive ed-tech platform designed to revolutionize the way educational content is created, consumed, and rated. Built with the MERN Stack, the platform provides an immersive and interactive learning experience for students and a global stage for instructors to showcase their expertise.
 
-#Key Objectives
+# Key Objectives
 Students: To provide a seamless, accessible, and highly engaging online learning environment.
 Instructors: To offer a robust platform for showcasing expertise, managing courses, and connecting with learners worldwide.
 
-#Key Features
+# Key Features
 Authentication & Authorization: Secure sign-up/login with JWT for both Students and Instructors, supporting OTP verification and Forgot Password functionality.
 Course Consumption: Access to structured course content pages with videos, media, and supporting material.
 E-commerce Flow: Full checkout process including Payment Integration via Razorpay to purchase and enroll in courses.
@@ -17,7 +17,7 @@ Cloud Media Management: Uses Cloudinary for secure storage and management of all
 ## Tech Stack
 StudyNotion is a application built on the MERN stack.
 
-#Component	            #Technology	
+# Component	            # Technology	
 Front-End -->           ReactJS	
 Front-End Styling -->   Tailwind CSS	
 State Management -->	Redux	
